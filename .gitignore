@@ -1,4 +1,4 @@
-# Archivos pesados: van a Google Drive, NO a GitHub
+# Pesados: van a Google Drive, no a GitHub
 *.mp4
 *.m4v
 *.mov
@@ -6,10 +6,14 @@
 *.avi
 *.wmv
 *.flv
+*.mpg
+*.mpeg
+*.3gp
 *.exe
 *.msi
 *.iso
 *.rar
+*.zip
 *.7z
 
 # Basura de AutoCAD / Office / Windows
@@ -24,6 +28,3 @@ desktop.ini
 # Python
 __pycache__/
 venv/
-
-# Reportes locales del asistente
-git_log.txt
