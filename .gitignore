@@ -1,0 +1,29 @@
+# Archivos pesados: van a Google Drive, NO a GitHub
+*.mp4
+*.m4v
+*.mov
+*.mkv
+*.avi
+*.wmv
+*.flv
+*.exe
+*.msi
+*.iso
+*.rar
+*.7z
+
+# Basura de AutoCAD / Office / Windows
+*.bak
+*.dwl
+*.dwl2
+*.sv$
+~$*
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+venv/
+
+# Reportes locales del asistente
+git_log.txt
